@@ -7,6 +7,7 @@ Pull requests on interesting tools/projects/resources are welcome. Additional in
 ## Table of Contents
  - [Session Managers](#session-managers)
  - [GUI](#gui)
+ - [Effects](#effects)
 
 
 ## Session Managers
@@ -15,3 +16,6 @@ Pull requests on interesting tools/projects/resources are welcome. Additional in
 
 ## GUI
 - [Helvum](https://gitlab.freedesktop.org/ryuukyu/helvum) — GTK-based patchbay for pipewire, inspired by the JACK tool catia.
+
+## Effects
+- [JamesDSP for Linux](https://github.com/Audio4Linux/JDSP4Linux#readme)

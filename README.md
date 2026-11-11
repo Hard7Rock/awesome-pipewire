@@ -38,6 +38,7 @@ Pull requests on interesting tools/projects/resources are welcome. Additional in
 
 ## Audio Routing & Sharing
 - [audio-share](https://github.com/mkckr0/audio-share) — Share Windows/Linux computer's audio to an Android phone over the network.
+- [crossfade](https://github.com/gleem-gg/crossfade) — Virtual audio mixer for streamers: separate Monitor and Stream mixes per channel (plus an optional VOD mix), virtual microphones for OBS and Discord, LV2/VST effects and MIDI controller support.
 - [obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) — Audio device and application capture for OBS Studio using PipeWire.
 - [pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) — A PulseAudio and PipeWire audio mixer inspired by Voicemeeter.
 - [PWAR](https://github.com/ripxorip/PWAR) — PipeWire ASIO Relay — a zero-drift, real-time audio bridge.
